@@ -1,0 +1,13 @@
+.potion1 {
+    color: white;
+    background-color: black;
+}
+
+.potion2 {
+    background-color: yellow;
+}
+
+.potion1, .potion2 {
+    font-size: 36px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
